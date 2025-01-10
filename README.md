@@ -51,12 +51,21 @@ Sinta-se à vontade para contribuir! Se encontrar algum erro ou se tiver sugest�
 3. Faça as alterações necessárias.
 4. Abra um Pull Request explicando as mudanças.
 
-## 📣 Contato
 
+### 📫 **Contatos**
 Caso tenha alguma dúvida ou queira conversar sobre algum dos desafios, entre em contato através do LinkedIn ou GitHub:
 
-- **LinkedIn**: [https://www.linkedin.com/in/victória-barbosa-367748340/]
-- **GitHub**: [seu_link_do_git_hub]
+<div style="text-align: center;">
+  <a href="https://www.linkedin.com/in/victória-barbosa-367748340">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white" />
+  </a>
+</div>
+
+---
+
 
 ## 📄 Licença
 
