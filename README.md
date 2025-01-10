@@ -27,14 +27,13 @@ O repositório está organizado da seguinte forma:
 
 ```
 /DesafioDeProgramacao
-    /c
         - problema_1.c
-
-    /python
         - problema_2.py
         - problema_3.py
         - problema_4.py
         - problema_5.py
+   dados.json
+   dados(2).xml
    README.md
 ```
 
