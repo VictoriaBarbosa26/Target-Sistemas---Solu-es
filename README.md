@@ -65,4 +65,4 @@ Caso tenha alguma dúvida ou queira conversar sobre algum dos desafios, entre em
 
 ## 📄 Licença
 
-Este repositório está licenciado sob a [MIT License](LICENSE).
+Este repositório está licenciado sob a [MIT License](https://www.dio.me/articles/licenca-mit-no-github-o-que-e-isso).
