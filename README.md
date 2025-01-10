@@ -35,6 +35,7 @@ O repositório está organizado da seguinte forma:
         - problema_3.py
         - problema_4.py
         - problema_5.py
+   README.md
 ```
 
 ## ⚙️ Como Contribuir
