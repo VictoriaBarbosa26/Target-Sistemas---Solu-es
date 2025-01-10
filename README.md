@@ -1,6 +1,6 @@
 # Desafio de Programação 🧑‍💻💡
 
-Bem-vindo ao repositório que contém as soluções para uma série de desafios de programação! Aqui você encontrará resoluções implementadas em **Python** e **C** para exercícios clássicos de lógica, manipulação de strings e mais.
+Bem-vindos ao repositório que contém as soluções para uma série de desafios de programação! Aqui você encontrará resoluções implementadas em **Python** e **C** para exercícios clássicos de lógica, manipulação de strings e mais.
 
 ## 🎯 Objetivos dos Exercícios
 
