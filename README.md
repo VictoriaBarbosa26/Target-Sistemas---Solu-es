@@ -27,19 +27,14 @@ O repositório está organizado da seguinte forma:
 
 ```
 /DesafioDeProgramacao
-    /python
-        - exercicio1.py
-        - exercicio2.py
-        - exercicio3.py
-        - exercicio4.py
-        - exercicio5.py
     /c
-        - exercicio1.c
-        - exercicio2.c
-        - exercicio3.c
-        - exercicio4.c
-        - exercicio5.c
-    README.md
+        - problema_1.c
+
+    /python
+        - problema_2.py
+        - problema_3.py
+        - problema_4.py
+        - problema_5.py
 ```
 
 ## ⚙️ Como Contribuir
