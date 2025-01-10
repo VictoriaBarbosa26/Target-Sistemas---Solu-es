@@ -59,7 +59,7 @@ Caso tenha alguma dúvida ou queira conversar sobre algum dos desafios, entre em
   <a href="https://www.linkedin.com/in/victória-barbosa-367748340">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/VictoriaBarbosa26">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white" />
   </a>
 </div>
